@@ -13,7 +13,7 @@
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising millionaires in IT automation.
 	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
-	Class32 will start on April 15, 2023, while class31 will finish on 15,July 2023.Weldone Bj </h1>
+	Class32 will start on April 15, 2023, while class31 will finish on 15,July 2023 and by february 2024, i will be a senior Devops manager and also created my software application. </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
